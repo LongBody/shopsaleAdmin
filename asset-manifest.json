@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shopsaleAdmin/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/shopsaleAdmin/static/js/main.2fb450fe.chunk.js",
+    "main.js.map": "/shopsaleAdmin/static/js/main.2fb450fe.chunk.js.map",
+    "runtime-main.js": "/shopsaleAdmin/static/js/runtime-main.bdbcd9b1.js",
+    "runtime-main.js.map": "/shopsaleAdmin/static/js/runtime-main.bdbcd9b1.js.map",
+    "static/js/2.b6f32d57.chunk.js": "/shopsaleAdmin/static/js/2.b6f32d57.chunk.js",
+    "static/js/2.b6f32d57.chunk.js.map": "/shopsaleAdmin/static/js/2.b6f32d57.chunk.js.map",
+    "index.html": "/shopsaleAdmin/index.html",
+    "precache-manifest.99a0b7093c1c9b5dd8f363351b7e33ab.js": "/shopsaleAdmin/precache-manifest.99a0b7093c1c9b5dd8f363351b7e33ab.js",
+    "service-worker.js": "/shopsaleAdmin/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/shopsaleAdmin/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.b6f32d57.chunk.js.LICENSE.txt": "/shopsaleAdmin/static/js/2.b6f32d57.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdbcd9b1.js",
+    "static/js/2.b6f32d57.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.2fb450fe.chunk.js"
+  ]
+}
